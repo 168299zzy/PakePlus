@@ -240,8 +240,6 @@ export default defineConfig({
                                 { text: '下载软件', link: '/zh/guide/down' },
                                 { text: '获取Token', link: '/zh/guide/token' },
                                 { text: '创建项目', link: '/zh/guide/creat' },
-                                { text: '在线网站', link: '/zh/guide/gitpage' },
-                                { text: '发布成功', link: '/zh/guide/success' },
                             ],
                         },
                         {
@@ -259,6 +257,7 @@ export default defineConfig({
                                 },
                                 { text: '云端打包', link: '/zh/guide/build' },
                                 { text: '发布成功', link: '/zh/guide/success' },
+                                { text: '在线网站', link: '/zh/guide/gitpage' },
                             ],
                         },
                         {
